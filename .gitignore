@@ -1,0 +1,13 @@
+*.o
+*.iso
+*.bin
+a.out
+sparkos
+spark-os
+ps
+iso/
+*_backup.c
+*_backup
+spark_data.txt
+spark_fd.txt
+spark_inode.txt
